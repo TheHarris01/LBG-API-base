@@ -1,10 +1,10 @@
 # REST API starter
 
-This application is the start point for Sprint 1 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.
+This application is the start point for Sprint 1 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.This is being run in May 2022.
 
 ## Installation
 
-To initialise the project you will need to install several dependencies, open up a git bash terminal from the repo directory and run the command:
+To initialise the project Simon H Says you will need to install several dependencies, open up a git bash terminal from the repo directory and run the command:
 
 ~~~ bash
 $ npm install
@@ -13,6 +13,7 @@ $ npm install
 ## Running the application
 
 In order to run the application, from your git bash terminal run:
+Simon H Says should follow the following steps:
 
 ~~~ bash
 $ npm start
@@ -21,11 +22,11 @@ API Listening on http://localhost:8080
 
 ## Stopping the application
 
-In order to stop the application from the git bash terminal that is running the server press ``CTRL`` + ``C``
+In order to stop the application from the git bash terminal that is running the server Simon H says press ``CTRL`` + ``C``
 
 ## Running on a different port
 
-To start the application on an alternative port to the default (8080) from your git bash terminal run:
+To start the application on an alternative port to the default (8080) from your git bash terminal Simon H says run:
 
 ~~~ bash
 $ PORT=9090 npm start
@@ -41,6 +42,8 @@ In order to interact with this application through a browser navigate to http://
 There is a full CRUD functionality through the buttons on the web page.
 
 ### CREATE
+
+After that it should all work nicely! if not try again
 
 To create the example product run the command:
 
