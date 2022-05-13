@@ -87,5 +87,3 @@ $ curl -s -X DELETE http://localhost:8080/delete/<id>
 n.b: For these commands anything surrounded by angled braces <> needs to be replaced by you
 
 ---
-
-At the end of this your code should work perfectly says Simon H
